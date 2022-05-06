@@ -169,3 +169,4 @@ class ProductList with ChangeNotifier {
   //   _showFavoriteOnly = false;
   //   notifyListeners();
   // }
+  
